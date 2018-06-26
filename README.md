@@ -1,2 +1,2 @@
 # PSE-Tracker
-A native application to track stock activity in the Philippine Stock Exchange
+A web application to track stock activity in the Philippine Stock Exchange
